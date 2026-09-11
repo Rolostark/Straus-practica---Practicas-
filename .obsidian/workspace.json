@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "1e0f7865b2e423bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d2a0bf40aff279c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c663ed88e408beae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/PROPIO/02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d05e9161a9afc5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "35ca985ad9b8bb86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0741932eb4d3fd9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "bfc2531e08495f7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3788fafbf1a8d945",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd4b7ee1851f0d42",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8344e850981f091",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ea472bdf6682bf8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "VALENZUELA 2/MESA DE TRABAJO/Excalidraw/01.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01.excalidraw"
+            }
+          },
+          {
+            "id": "74570767444ada79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "VALENZUELA 2/MESA DE TRABAJO/Excalidraw/01.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01.excalidraw"
+            }
+          },
+          {
+            "id": "79c604976fac1c43",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e76d8e0de35f619c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ffe6f103fa8ba8ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "VALENZUELA 2/MESA DE TRABAJO/Excalidraw/01.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
+    }
+  },
+  "active": "c663ed88e408beae",
+  "lastOpenFiles": [
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/PROPIO/01.md",
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/PROPIO/02.md",
+    "FELIPE MERINO CALLEJAS TRANSPORTES SL/MESA DE TRABAJO/01.excalidraw.md",
+    "El Moto/MESA DE TRABAJO/Drawing 2026-09-11 11.11.41.excalidraw.md",
+    "El Moto/MATERIAL/01.md",
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MESA DE TRABAJO/01.excalidraw.md",
+    "El Moto/MATERIAL/01/Pasted Image 20260911111159_348.png",
+    "El Moto/MATERIAL/01/Pasted Image 20260911111146_425.png",
+    "El Moto/MATERIAL/01",
+    "El Moto/PROPIO",
+    "El Moto/PROPIO/Propuesta de Servicios IT - El Moto.pdf",
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/DATOS ACCESO VALENZUELA 2.pdf",
+    "Excalidraw",
+    "El Moto/MESA DE TRABAJO",
+    "El Moto/MATERIAL",
+    "El Moto",
+    "SISTEMA DE LA EMPRESA/MESA DE TRABAJO/01.excalidraw.md",
+    "SISTEMA DE LA EMPRESA/PROPIO/Sin título.md",
+    "SISTEMA DE LA EMPRESA/PROPIO",
+    "ASISTENCIA REMOTO/MESA DE TRABAJO/01.excalidraw.md",
+    "ASISTENCIA REMOTO/MATERIAL/01/Pasted Image 20260902131706_441.png",
+    "ASISTENCIA REMOTO/MATERIAL/01",
+    "ASISTENCIA REMOTO/MATERIAL/WhatsApp Image 2026-09-02 at 13.13.49.jpeg",
+    "ASISTENCIA REMOTO/Sin título.canvas",
+    "SISTEMA DE LA EMPRESA/MATERIAL/01/Pasted image 20260902131053.png",
+    "SISTEMA DE LA EMPRESA/MATERIAL/01/Pasted image 20260902125545.png",
+    "SISTEMA DE LA EMPRESA/MATERIAL/01/Pasted image 20260902125539.png",
+    "SISTEMA DE LA EMPRESA/MATERIAL/01/Pasted image 20260902125533.png",
+    "SISTEMA DE LA EMPRESA/MATERIAL/01/Pasted image 20260902125526.png",
+    "SISTEMA DE LA EMPRESA/MATERIAL/01/Pasted image 20260902125520.png",
+    "Excalidraw/Drawing 2026-09-02 11.57.38.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-02 11.57.13.excalidraw.md",
+    "Felipe Merino (Callejas Transportes S.L.)/Sin título.md",
+    "VALENZUELA 2/MESA DE TRABAJO/02.excalidraw.md",
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Iterator/README.md",
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/themes/twentytwentytwo/assets/fonts/source-serif-pro/LICENSE.md",
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/LICENSE.md",
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/wp-maintenance-mode/vendor/codeinwp/themeisle-sdk/CHANGELOG.md",
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/yahnis-elsts/plugin-update-checker/README.md",
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/team-updraft/common-libs/README.md",
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/symfony/polyfill-php72/README.md",
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/symfony/polyfill-php70/README.md",
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/symfony/polyfill-mbstring/README.md",
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/symfony/polyfill-intl-normalizer/README.md",
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/symfony/polyfill-intl-idn/README.md",
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/symfony/event-dispatcher/README.md",
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/symfony/event-dispatcher/CHANGELOG.md"
+  ]
+}

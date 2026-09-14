@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "95072a3246f8221f",
+        "id": "195d0b884003e126",
         "type": "tabs",
         "children": [
           {
-            "id": "438d6f8fcf74d7ca",
+            "id": "627a888eb761385d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "type": "excalidraw",
+              "state": {
+                "file": "SISTEMA DE LA EMPRESA/MESA DE TRABAJO/01.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "01.excalidraw"
             }
           }
         ]
@@ -193,38 +195,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "438d6f8fcf74d7ca",
+  "active": "627a888eb761385d",
   "lastOpenFiles": [
-    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/PROPIO/02.md",
-    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/PROPIO/01.md",
+    "SISTEMA DE LA EMPRESA/MATERIAL/Propuesta de Servicios IT - ABENOJAR TUNGSTEN SA.pdf",
+    "ABENOJAR TUNGSTEN SA/MATERIAL/01.md",
+    "SISTEMA DE LA EMPRESA/MESA DE TRABAJO/01.excalidraw.md",
     "FELIPE MERINO CALLEJAS TRANSPORTES SL/MESA DE TRABAJO/01.excalidraw.md",
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MESA DE TRABAJO/01.excalidraw.md",
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/PROPIO/02.md",
+    "ASISTENCIA REMOTO/MESA DE TRABAJO/01.excalidraw.md",
+    "conflict-files-obsidian-git.md",
+    "ABENOJAR TUNGSTEN SA/MATERIAL/01/Pasted Image 20260911111159_348.png",
+    "ABENOJAR TUNGSTEN SA/MATERIAL/01/Pasted Image 20260911111146_425.png",
+    "ABENOJAR TUNGSTEN SA/PROPIO/PROPUESTA DE SERVICO - ABENOJAR TUNGSTEN SA.pdf",
+    "ABENOJAR TUNGSTEN SA/MESA DE TRABAJO/01.excalidraw.md",
+    "ABENOJAR TUNGSTEN SA/MATERIAL/01",
+    "ABENOJAR TUNGSTEN SA/PROPIO",
+    "ABENOJAR TUNGSTEN SA/MESA DE TRABAJO",
+    "ABENOJAR TUNGSTEN SA/MATERIAL",
+    "ABENOJAR TUNGSTEN SA",
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/PROPIO/01.md",
     "El Moto/MESA DE TRABAJO/Drawing 2026-09-11 11.11.41.excalidraw.md",
     "El Moto/MATERIAL/01.md",
-    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MESA DE TRABAJO/01.excalidraw.md",
     "El Moto/MATERIAL/01/Pasted Image 20260911111159_348.png",
     "El Moto/MATERIAL/01/Pasted Image 20260911111146_425.png",
     "El Moto/MATERIAL/01",
     "El Moto/PROPIO",
     "El Moto/PROPIO/Propuesta de Servicios IT - El Moto.pdf",
     "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/DATOS ACCESO VALENZUELA 2.pdf",
-    "Excalidraw",
-    "El Moto/MESA DE TRABAJO",
-    "El Moto/MATERIAL",
-    "El Moto",
-    "SISTEMA DE LA EMPRESA/MESA DE TRABAJO/01.excalidraw.md",
     "SISTEMA DE LA EMPRESA/PROPIO/Sin título.md",
-    "SISTEMA DE LA EMPRESA/PROPIO",
-    "ASISTENCIA REMOTO/MESA DE TRABAJO/01.excalidraw.md",
     "ASISTENCIA REMOTO/MATERIAL/01/Pasted Image 20260902131706_441.png",
-    "ASISTENCIA REMOTO/MATERIAL/01",
     "ASISTENCIA REMOTO/MATERIAL/WhatsApp Image 2026-09-02 at 13.13.49.jpeg",
     "ASISTENCIA REMOTO/Sin título.canvas",
     "SISTEMA DE LA EMPRESA/MATERIAL/01/Pasted image 20260902131053.png",
     "SISTEMA DE LA EMPRESA/MATERIAL/01/Pasted image 20260902125545.png",
     "SISTEMA DE LA EMPRESA/MATERIAL/01/Pasted image 20260902125539.png",
     "SISTEMA DE LA EMPRESA/MATERIAL/01/Pasted image 20260902125533.png",
-    "SISTEMA DE LA EMPRESA/MATERIAL/01/Pasted image 20260902125526.png",
-    "SISTEMA DE LA EMPRESA/MATERIAL/01/Pasted image 20260902125520.png",
     "Excalidraw/Drawing 2026-09-02 11.57.38.excalidraw.md",
     "Excalidraw/Drawing 2026-09-02 11.57.13.excalidraw.md",
     "Felipe Merino (Callejas Transportes S.L.)/Sin título.md",
@@ -237,10 +243,6 @@
     "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/team-updraft/common-libs/README.md",
     "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/symfony/polyfill-php72/README.md",
     "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/symfony/polyfill-php70/README.md",
-    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/symfony/polyfill-mbstring/README.md",
-    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/symfony/polyfill-intl-normalizer/README.md",
-    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/symfony/polyfill-intl-idn/README.md",
-    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/symfony/event-dispatcher/README.md",
-    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/symfony/event-dispatcher/CHANGELOG.md"
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/symfony/polyfill-mbstring/README.md"
   ]
 }

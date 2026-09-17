@@ -8,18 +8,122 @@
         "type": "tabs",
         "children": [
           {
-            "id": "627a888eb761385d",
+            "id": "ad69edf0cc5caaf5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "CAMINERO & PRADO ASOCIADOS SL/propio/01/Pasted Image 20260917102630_856.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted Image 20260917102630_856"
+            }
+          },
+          {
+            "id": "68bd41664eb8c51a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAMINERO & PRADO ASOCIADOS SL/propio/01 montaje fisico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 montaje fisico"
+            }
+          },
+          {
+            "id": "b7a1f13c70888231",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAMINERO & PRADO ASOCIADOS SL/propio/01 montaje fisico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 montaje fisico"
+            }
+          },
+          {
+            "id": "109bc8e16c413c4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAMINERO & PRADO ASOCIADOS SL/propio/01 montaje fisico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 montaje fisico"
+            }
+          },
+          {
+            "id": "3ed2a65e0bc45be4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "CAMINERO & PRADO ASOCIADOS SL/propio/01/Pasted image 20260917112929.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260917112929"
+            }
+          },
+          {
+            "id": "e8230b4f515a4d0a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "SISTEMA DE LA EMPRESA/MESA DE TRABAJO/01.excalidraw.md"
+                "file": "CAMINERO & PRADO ASOCIADOS SL/01.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "01.excalidraw"
             }
+          },
+          {
+            "id": "4b0d52569ccc2a10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAMINERO & PRADO ASOCIADOS SL/propio/01 montaje fisico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 montaje fisico"
+            }
+          },
+          {
+            "id": "4fa5606e886d6bf7",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "CAMINERO & PRADO ASOCIADOS SL/proceso para el servicio.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "proceso para el servicio"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -78,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bd4b7ee1851f0d42",
@@ -180,7 +285,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,45 +297,50 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "627a888eb761385d",
+  "active": "4fa5606e886d6bf7",
   "lastOpenFiles": [
-    "SISTEMA DE LA EMPRESA/MATERIAL/Propuesta de Servicios IT - ABENOJAR TUNGSTEN SA.pdf",
+    "CAMINERO & PRADO ASOCIADOS SL/propio/01 montaje fisico.md",
+    "CAMINERO & PRADO ASOCIADOS SL/01.excalidraw.md",
+    "CAMINERO & PRADO ASOCIADOS SL/propio/01/Pasted Image 20260917102630_856.png",
+    "CAMINERO & PRADO ASOCIADOS SL/propio/01/Pasted image 20260917112929.png",
+    "CAMINERO & PRADO ASOCIADOS SL/proceso para el servicio.md",
+    "Pasted image 20260917113219.png",
+    "CAMINERO & PRADO ASOCIADOS SL/propio/01/Pasted image 20260917112923.png",
+    "CAMINERO & PRADO ASOCIADOS SL/propio/01/Pasted image 20260917112916.png",
+    "CAMINERO & PRADO ASOCIADOS SL/propio/01/Pasted image 20260917112910.png",
+    "CAMINERO & PRADO ASOCIADOS SL/propio/01/Pasted image 20260917112343.png",
+    "CAMINERO & PRADO ASOCIADOS SL/propio/01/Pasted image 20260917112336.png",
+    "CAMINERO & PRADO ASOCIADOS SL/propio/01/Pasted image 20260917112331.png",
+    "CAMINERO & PRADO ASOCIADOS SL/propio/01/Pasted image 20260917112325.png",
+    "CAMINERO & PRADO ASOCIADOS SL/propio/01",
+    "CAMINERO & PRADO ASOCIADOS SL/propio",
+    "ABENOJAR TUNGSTEN SA/MESA DE TRABAJO/01.excalidraw.md",
+    "CAMINERO & PRADO ASOCIADOS SL/material/Presupuesto_Cliente_Serie_55_Numero__20260917_100429.pdf",
     "ABENOJAR TUNGSTEN SA/MATERIAL/01.md",
+    "CAMINERO & PRADO ASOCIADOS SL/Sin título.md",
+    "AÑOS FUTUROS SL",
+    "CAMINERO & PRADO ASOCIADOS SL/material",
+    "Sin título.md",
+    "CAMINERO & PRADO ASOCIADOS SL",
     "SISTEMA DE LA EMPRESA/MESA DE TRABAJO/01.excalidraw.md",
+    "SISTEMA DE LA EMPRESA/MATERIAL/Propuesta de Servicios IT - ABENOJAR TUNGSTEN SA.pdf",
     "FELIPE MERINO CALLEJAS TRANSPORTES SL/MESA DE TRABAJO/01.excalidraw.md",
     "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MESA DE TRABAJO/01.excalidraw.md",
     "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/PROPIO/02.md",
     "ASISTENCIA REMOTO/MESA DE TRABAJO/01.excalidraw.md",
     "conflict-files-obsidian-git.md",
-    "ABENOJAR TUNGSTEN SA/MATERIAL/01/Pasted Image 20260911111159_348.png",
-    "ABENOJAR TUNGSTEN SA/MATERIAL/01/Pasted Image 20260911111146_425.png",
     "ABENOJAR TUNGSTEN SA/PROPIO/PROPUESTA DE SERVICO - ABENOJAR TUNGSTEN SA.pdf",
-    "ABENOJAR TUNGSTEN SA/MESA DE TRABAJO/01.excalidraw.md",
     "ABENOJAR TUNGSTEN SA/MATERIAL/01",
     "ABENOJAR TUNGSTEN SA/PROPIO",
-    "ABENOJAR TUNGSTEN SA/MESA DE TRABAJO",
-    "ABENOJAR TUNGSTEN SA/MATERIAL",
-    "ABENOJAR TUNGSTEN SA",
     "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/PROPIO/01.md",
     "El Moto/MESA DE TRABAJO/Drawing 2026-09-11 11.11.41.excalidraw.md",
     "El Moto/MATERIAL/01.md",
-    "El Moto/MATERIAL/01/Pasted Image 20260911111159_348.png",
-    "El Moto/MATERIAL/01/Pasted Image 20260911111146_425.png",
-    "El Moto/MATERIAL/01",
-    "El Moto/PROPIO",
-    "El Moto/PROPIO/Propuesta de Servicios IT - El Moto.pdf",
-    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/DATOS ACCESO VALENZUELA 2.pdf",
     "SISTEMA DE LA EMPRESA/PROPIO/Sin título.md",
-    "ASISTENCIA REMOTO/MATERIAL/01/Pasted Image 20260902131706_441.png",
-    "ASISTENCIA REMOTO/MATERIAL/WhatsApp Image 2026-09-02 at 13.13.49.jpeg",
     "ASISTENCIA REMOTO/Sin título.canvas",
-    "SISTEMA DE LA EMPRESA/MATERIAL/01/Pasted image 20260902131053.png",
-    "SISTEMA DE LA EMPRESA/MATERIAL/01/Pasted image 20260902125545.png",
-    "SISTEMA DE LA EMPRESA/MATERIAL/01/Pasted image 20260902125539.png",
-    "SISTEMA DE LA EMPRESA/MATERIAL/01/Pasted image 20260902125533.png",
     "Excalidraw/Drawing 2026-09-02 11.57.38.excalidraw.md",
     "Excalidraw/Drawing 2026-09-02 11.57.13.excalidraw.md",
     "Felipe Merino (Callejas Transportes S.L.)/Sin título.md",
@@ -238,11 +348,6 @@
     "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Iterator/README.md",
     "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/themes/twentytwentytwo/assets/fonts/source-serif-pro/LICENSE.md",
     "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/LICENSE.md",
-    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/wp-maintenance-mode/vendor/codeinwp/themeisle-sdk/CHANGELOG.md",
-    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/yahnis-elsts/plugin-update-checker/README.md",
-    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/team-updraft/common-libs/README.md",
-    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/symfony/polyfill-php72/README.md",
-    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/symfony/polyfill-php70/README.md",
-    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/symfony/polyfill-mbstring/README.md"
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/wp-maintenance-mode/vendor/codeinwp/themeisle-sdk/CHANGELOG.md"
   ]
 }

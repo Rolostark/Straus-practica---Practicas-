@@ -11,23 +11,12 @@
             "id": "4f58716d4dcd5557",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "excalidraw",
               "state": {
-                "file": "CAMINERO & PRADO ASOCIADOS SL/proceso para el servicio.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "SISTEMA DE LA EMPRESA/MESA DE TRABAJO/01.excalidraw.md"
               },
-              "icon": "lucide-trello",
-              "title": "proceso para el servicio"
+              "icon": "excalidraw-icon",
+              "title": "01.excalidraw"
             }
           }
         ]
@@ -203,12 +192,13 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "4f58716d4dcd5557",
   "lastOpenFiles": [
+    "ABENOJAR TUNGSTEN SA/MATERIAL/01.md",
+    "SISTEMA DE LA EMPRESA/MESA DE TRABAJO/01.excalidraw.md",
     "CAMINERO & PRADO ASOCIADOS SL/proceso para el servicio.md",
     "CAMINERO & PRADO ASOCIADOS SL/propio/02/Pasted image 20260918101453.png",
     "Pasted image 20260918101629.png",
@@ -228,13 +218,11 @@
     "CAMINERO & PRADO ASOCIADOS SL/propio",
     "ABENOJAR TUNGSTEN SA/MESA DE TRABAJO/01.excalidraw.md",
     "CAMINERO & PRADO ASOCIADOS SL/material/Presupuesto_Cliente_Serie_55_Numero__20260917_100429.pdf",
-    "ABENOJAR TUNGSTEN SA/MATERIAL/01.md",
     "CAMINERO & PRADO ASOCIADOS SL/Sin título.md",
     "AÑOS FUTUROS SL",
     "CAMINERO & PRADO ASOCIADOS SL/material",
     "Sin título.md",
     "CAMINERO & PRADO ASOCIADOS SL",
-    "SISTEMA DE LA EMPRESA/MESA DE TRABAJO/01.excalidraw.md",
     "SISTEMA DE LA EMPRESA/MATERIAL/Propuesta de Servicios IT - ABENOJAR TUNGSTEN SA.pdf",
     "FELIPE MERINO CALLEJAS TRANSPORTES SL/MESA DE TRABAJO/01.excalidraw.md",
     "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MESA DE TRABAJO/01.excalidraw.md",

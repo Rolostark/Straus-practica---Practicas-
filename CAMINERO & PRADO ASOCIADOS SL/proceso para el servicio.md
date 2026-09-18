@@ -13,14 +13,14 @@ kanban-plugin: board
 	- Configurar un RAID 1 (espejo) con los dos discos SSD de 480GB para el sistema operativo.
 	    
 	- Configurar los dos discos Seagate de 2TB para la unidad de documentos en red y copias de seguridad (recomendable también en RAID 1 para tolerancia a fallos).
-
+	[[02 configuracion RAID]]
 
 ## Fase 2: Instalación del Sistema Operativo y Licenciamiento
 
 - [ ] **Despliegue del SO:** Instalar la licencia de Microsoft Windows Server 2025 Standard ROK en el volumen SSD.
 - [ ] **Actualizaciones:** Instalar los controladores (drivers) específicos de HPE y descargar las últimas actualizaciones de seguridad de Windows.
 - [ ] **Licenciamiento de usuarios:** Configurar e instalar las licencias CAL para habilitar el acceso legal de hasta 10 usuarios.
-
+	
 
 ## Fase 3: Configuración de Red y Directorio Activo (Active Directory)
 

@@ -4,30 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8bef433ebacabf45",
+        "id": "9af6b17c70ad745b",
         "type": "tabs",
         "children": [
           {
-            "id": "4f58716d4dcd5557",
+            "id": "1deddbaf8272657b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "CAMINERO & PRADO ASOCIADOS SL/proceso para el servicio.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "CAMINERO & PRADO ASOCIADOS SL/windos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "proceso para el servicio"
+              "icon": "lucide-file",
+              "title": "windos"
             }
           }
         ]
@@ -191,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,21 +198,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4f58716d4dcd5557",
+  "active": "1deddbaf8272657b",
   "lastOpenFiles": [
+    "CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104848.png",
+    "CAMINERO & PRADO ASOCIADOS SL/windos.md",
+    "CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104802.png",
+    "CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104757.png",
+    "CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104752.png",
+    "CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104748.png",
+    "CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104743.png",
+    "CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104738.png",
+    "CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104733.png",
+    "CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104728.png",
+    "CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104721.png",
     "CAMINERO & PRADO ASOCIADOS SL/proceso para el servicio.md",
-    "CAMINERO & PRADO ASOCIADOS SL/propio/02/Pasted image 20260918101453.png",
-    "Pasted image 20260918101629.png",
     "CAMINERO & PRADO ASOCIADOS SL/propio/01 montaje fisico.md",
     "CAMINERO & PRADO ASOCIADOS SL/propio/02 configuracion RAID.md",
-    "CAMINERO & PRADO ASOCIADOS SL/propio/02/Pasted image 20260918101442.png",
-    "CAMINERO & PRADO ASOCIADOS SL/propio/02/Pasted image 20260918101438.png",
-    "CAMINERO & PRADO ASOCIADOS SL/propio/02/Pasted image 20260918101431.png",
-    "CAMINERO & PRADO ASOCIADOS SL/propio/02/Pasted image 20260918101426.png",
-    "CAMINERO & PRADO ASOCIADOS SL/propio/02/Pasted image 20260918101418.png",
-    "CAMINERO & PRADO ASOCIADOS SL/propio/02/Pasted image 20260918101415.png",
-    "CAMINERO & PRADO ASOCIADOS SL/propio/02/Pasted image 20260918101411.png",
-    "CAMINERO & PRADO ASOCIADOS SL/propio/02/Pasted image 20260918101405.png",
     "CAMINERO & PRADO ASOCIADOS SL/propio/02",
     "CAMINERO & PRADO ASOCIADOS SL/01.excalidraw.md",
     "CAMINERO & PRADO ASOCIADOS SL/propio/01",
@@ -229,7 +221,6 @@
     "ABENOJAR TUNGSTEN SA/MESA DE TRABAJO/01.excalidraw.md",
     "CAMINERO & PRADO ASOCIADOS SL/material/Presupuesto_Cliente_Serie_55_Numero__20260917_100429.pdf",
     "ABENOJAR TUNGSTEN SA/MATERIAL/01.md",
-    "CAMINERO & PRADO ASOCIADOS SL/Sin título.md",
     "AÑOS FUTUROS SL",
     "CAMINERO & PRADO ASOCIADOS SL/material",
     "Sin título.md",

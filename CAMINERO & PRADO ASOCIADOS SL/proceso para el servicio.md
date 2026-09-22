@@ -18,6 +18,7 @@ kanban-plugin: board
 ## Fase 2: Instalación del Sistema Operativo y Licenciamiento
 
 - [ ] **Despliegue del SO:** Instalar la licencia de Microsoft Windows Server 2025 Standard ROK en el volumen SSD.
+	[[windos]]
 - [ ] **Actualizaciones:** Instalar los controladores (drivers) específicos de HPE y descargar las últimas actualizaciones de seguridad de Windows.
 - [ ] **Licenciamiento de usuarios:** Configurar e instalar las licencias CAL para habilitar el acceso legal de hasta 10 usuarios.
 	
